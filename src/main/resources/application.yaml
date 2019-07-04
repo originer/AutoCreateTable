@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    url: jdbc:mysql://47.97.211.38:3306/android
+    username: root
+    password: root
+    driver-class-name: com.mysql.jdbc.Driver
+
